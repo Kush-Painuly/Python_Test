@@ -34,3 +34,16 @@ This program:
 ### **Task 4: Print the sum of integers from 1 to 50**
  - Using for loop with range function.
  - Prints the sum of integers from 1 to 50.
+
+###  **Task 5: Calculates the factorial of a number**
+This program:
+
+Prompts the user to enter a value.
+using for loop or recursion calculates the factorial of the number.
+Displays the result of the operation to the user.
+
+###  **Task 6: Usage of Math module to print the sin, log and square root of a number**
+
+Prompts the user to enter a value.
+By importing the math module calculates the sin, log and square root of a number.
+Displays the result of the operation to the user.

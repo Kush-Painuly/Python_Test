@@ -24,3 +24,13 @@ This program:
  - Concatenates the first name and last name into a full name.
  - Prints a personalized greeting message using the full name.
 
+### **Task 3: Check Whether a number is Even or Odd**
+This program:
+- Prompts the user to enter **a value**.  
+- using if-else checks if it lies in the even category or the odd category.
+- Displays the result of the operation to the user.
+
+
+### **Task 4: Print the sum of integers from 1 to 50**
+ - Using for loop with range function.
+ - Prints the sum of integers from 1 to 50.

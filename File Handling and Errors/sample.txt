@@ -1,0 +1,2 @@
+Hello My name is Kush Painuly
+I am learning Python to be a better developer.

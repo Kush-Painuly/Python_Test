@@ -24,13 +24,26 @@ This program:
  - Concatenates the first name and last name into a full name.
  - Prints a personalized greeting message using the full name.
 
-### **Task 3: Check Whether a number is Even or Odd**
+###  **Task 3: Check Whether a number is Even or Odd**
 This program:
-- Prompts the user to enter **a value**.  
-- using if-else checks if it lies in the even category or the odd category.
-- Displays the result of the operation to the user.
 
+Prompts the user to enter a value.
+using if-else checks if it lies in the even category or the odd category.
+Displays the result of the operation to the user.
 
-### **Task 4: Print the sum of integers from 1 to 50**
- - Using for loop with range function.
- - Prints the sum of integers from 1 to 50.
+###  **Task 4: Print the sum of integers from 1 to 50**
+Using for loop with range function.
+Prints the sum of integers from 1 to 50.
+
+###  **Task 5: Calculates the factorial of a number**
+This program:
+
+Prompts the user to enter a value.
+using for loop or recursion calculates the factorial of the number.
+Displays the result of the operation to the user.
+
+###  **Task 6: Usage of Math module to print the sin, log and square root of a number**
+
+Prompts the user to enter a value.
+By importing the math module calculates the sin, log and square root of a number.
+Displays the result of the operation to the user.
